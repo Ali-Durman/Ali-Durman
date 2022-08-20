@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ali-Durman
-- 👀 I’m interested in Unity Game Develope & C#
 - ✨ I’m currently improving my Unity Game Engine & C# skills.
-- 🌱 I’m currently learning C# codes, SOLID principles & Scriptable Objects
+- 🌱 I’m currently learning SOLID principles & Scriptable Objects
 - 💞️ I’m looking to collaborate on Game Studios
 - 📫 How to reach me durman.ali20@gmail.com, https://www.linkedin.com/in/ali-durman-894934231/
 
