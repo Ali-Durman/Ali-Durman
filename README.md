@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity game develope and C#
 - 🌱 I’m currently learning C# codes, SOLID principles and Scriptable Objects
 - 💞️ I’m looking to collaborate on Game Studios
-- 📫 How to reach me durman.ali20@gmail.com, https://www.linkedin.com/in/ali-durman-894934231/
+- 📫 How to reach me durman.ali20@gmail.com, https://www.linkedin.com/in/ali-durman-894934231/, https://itch.io/profile/ali-durman
 
 <!---
 Ali-Durman/Ali-Durman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
