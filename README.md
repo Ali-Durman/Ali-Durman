@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Durman
-- ✨ I’m currently improving my Unity Game Engine, C# skills, Unreal Engine Engine & C++/Blueprint skills
+- ✨ I’m currently improving my  Dart Language skills, Flutter Skills and Mobile Application Development skills
 - 🌱 I’m currently learning SOLID principles, OOP & Scriptable Objects
-- 💞️ I’m looking to collaborate on Game Studios
+- 💞️ I’m looking to collaborate on Mobile Application Studios or Companys
 - 📫 How to reach me durman.ali20@gmail.com, https://www.linkedin.com/in/ali-durman-894934231/
 
 <!---
