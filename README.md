@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Durman
-- ✨ I’m currently improving my  Dart Language Skills, Flutter Skills and Mobile Application Development Skills
+- ✨ I’m currently improving my  HTML,CSS,JavaScript and React Language Skills, Native Skills and Mobile Application Development Skills
 - 🌱 I’m currently learning SOLID principles & OOP
-- 💞️ I’m looking to collaborate on Mobile Application Studios or Companys
+- 💞️ I’m looking to collaborate on Mobile Application Companys
 - 📫 How to reach me durman.ali20@gmail.com, https://www.linkedin.com/in/ali-durman-894934231/
 
 <!---
