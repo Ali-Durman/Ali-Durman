@@ -29,7 +29,6 @@
 
 ### 📂 Öne Çıkan Projeler
 - [MERN Roadmap](https://github.com/Ali-Durman/MERN-Roadmap) → Öğrenme sürecimi belgelediğim repo  
-- (ileride ekleyebilirsin: portföy projeleri, uygulamalar vb.)
 
 ---
 
